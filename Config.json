@@ -1,0 +1,5 @@
+{
+      "prefix": "Your Prefix",
+      "GenKeyRole": "Role id allowed To Generate Keys",
+      "RolestoGive": ["Role1ID", "Role2ID"]
+}
